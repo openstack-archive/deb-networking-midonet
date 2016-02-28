@@ -1,5 +1,9 @@
 networking-midonet (2015.1~b4-1) UNRELEASED; urgency=medium
 
+  [ Thomas Goirand ]
   * Initial release. (Closes: #XXXXXX)
+
+  [ Ondřej Nový ]
+  * Fixed VCS URLs (https).
 
  -- Thomas Goirand <zigo@debian.org>  Tue, 17 Mar 2015 16:02:15 +0100
