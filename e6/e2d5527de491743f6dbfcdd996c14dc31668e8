@@ -1,0 +1,10 @@
+Code-Review+2: Berezovsky Irena <irenab.dev@gmail.com>
+Code-Review+1: Darek Smigiel <smigiel.dariusz@gmail.com>
+Code-Review+2: Ryu Ishimoto <ryu@midokura.com>
+Workflow+1: Ryu Ishimoto <ryu@midokura.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 16 Nov 2015 04:53:00 +0000
+Reviewed-on: https://review.openstack.org/243418
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/master

@@ -1,0 +1,10 @@
+Code-Review+2: YAMAMOTO Takashi <yamamoto@midokura.com>
+Code-Review+1: Clint Adams <clint@gcfm.net>
+Code-Review+2: Ryu Ishimoto <ryu@midokura.com>
+Workflow+1: Ryu Ishimoto <ryu@midokura.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 27 Jan 2016 03:59:23 +0000
+Reviewed-on: https://review.openstack.org/264868
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/master

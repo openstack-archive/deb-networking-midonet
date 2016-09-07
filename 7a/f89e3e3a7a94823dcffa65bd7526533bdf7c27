@@ -1,0 +1,9 @@
+Code-Review+2: Kyle Mestery <mestery@mestery.com>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Workflow+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 02 Nov 2015 16:12:28 +0000
+Reviewed-on: https://review.openstack.org/240708
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/stable/liberty
