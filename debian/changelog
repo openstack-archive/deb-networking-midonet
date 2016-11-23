@@ -7,5 +7,8 @@ networking-midonet (2015.1~b4-1) UNRELEASED; urgency=medium
   * Fixed VCS URLs (https).
   * d/rules: Removed UPSTREAM_GIT, changed to default value
   * d/copyright: Changed source URL to new one
+  * d/s/options: extend-diff-ignore of .gitreview
+  * d/control: Using OpenStack's Gerrit as VCS URLs.
+  * Bumped debhelper compat version to 10
 
  -- Thomas Goirand <zigo@debian.org>  Tue, 17 Mar 2015 16:02:15 +0100
