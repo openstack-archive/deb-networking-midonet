@@ -1,0 +1,9 @@
+Code-Review+2: Ryu Ishimoto <ryu@midokura.com>
+Code-Review+2: Armando Migliaccio <armamig@gmail.com>
+Workflow+1: Armando Migliaccio <armamig@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 01 Feb 2017 04:49:58 +0000
+Reviewed-on: https://review.openstack.org/427522
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/master
