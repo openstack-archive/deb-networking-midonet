@@ -1,0 +1,9 @@
+Code-Review+2: Armando Migliaccio <armamig@gmail.com>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Workflow+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 03 May 2017 17:39:04 +0000
+Reviewed-on: https://review.openstack.org/457502
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/stable/newton
