@@ -1,0 +1,11 @@
+Code-Review+2: Joe Mills <joe@midokura.com>
+Code-Review+1: Brandon Berg <bberg@midokura.jp>
+Code-Review+1: Xavier León <xleon.mail@gmail.com>
+Code-Review+2: Ryu Ishimoto <ryu@midokura.com>
+Workflow+1: YAMAMOTO Takashi <yamamoto@midokura.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 08 May 2017 09:59:23 +0000
+Reviewed-on: https://review.openstack.org/428016
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/master
