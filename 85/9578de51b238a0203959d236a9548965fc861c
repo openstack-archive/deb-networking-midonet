@@ -1,0 +1,10 @@
+Code-Review+1: Ryu Ishimoto <ryu@midokura.com>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+2: Armando Migliaccio <armamig@gmail.com>
+Workflow+1: Armando Migliaccio <armamig@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 31 May 2017 00:29:21 +0000
+Reviewed-on: https://review.openstack.org/467500
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/stable/ocata
