@@ -1,0 +1,10 @@
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+1: YuYang <yuyangwang1985@gmail.com>
+Code-Review+2: Xavi León <xavi.leon@midokura.com>
+Workflow+1: YAMAMOTO Takashi <yamamoto@midokura.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 21 Jun 2017 11:55:41 +0000
+Reviewed-on: https://review.openstack.org/460838
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/master
