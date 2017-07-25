@@ -1,0 +1,9 @@
+Code-Review+2: Ryu Ishimoto <ryu@midokura.com>
+Code-Review+2: Xavi León <xavi.leon@midokura.com>
+Workflow+1: Xavi León <xavi.leon@midokura.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 25 Jul 2017 09:24:57 +0000
+Reviewed-on: https://review.openstack.org/486469
+Project: openstack/deb-networking-midonet
+Branch: refs/heads/master
